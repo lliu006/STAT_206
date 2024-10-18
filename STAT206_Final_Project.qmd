@@ -1,0 +1,4 @@
+---
+title: "STAT206_Final_Project"
+authors: "Axel Galicia Lona, Linlin Liu, & Nancy Lopez"
+---
